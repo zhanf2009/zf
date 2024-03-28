@@ -1,0 +1,28 @@
+
+{
+  "classes": [
+    {"type_name": "邓丽君","type_id": "邓丽君MV"}, 
+    {"type_name": "李双江","type_id": "李双江MV"},
+    {"type_name": "刀郎","type_id": "刀郎MV"},
+    {"type_name": "韩红","type_id": "韩红MV"},
+    {"type_name": "吴雁泽","type_id": "吴雁泽MV"},
+    {"type_name": "李谷一","type_id": "李谷一MV"},
+    {"type_name": "腾格尔","type_id": "腾格尔MV"},
+
+
+
+
+
+    {"type_name": "张学友","type_id": "张学友MV"},
+    {"type_name": "刘德华","type_id": "刘德华MV"},
+    {"type_name": "周杰伦","type_id": "周杰伦MV"},
+    {"type_name": "张惠妹","type_id": "张惠妹MV"},
+
+
+    {"type_name": "周传雄","type_id": "周传雄MV"}
+  ],
+  
+"cookie": "https://agit.ai/30215429/TVBox/raw/branch/master/bilibili/cookie.txt"
+
+
+}
