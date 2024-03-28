@@ -1,0 +1,48 @@
+
+
+
+
+
+
+{
+  "vodPic": "",
+  "drives": [
+    
+    
+    {"name": "Ecve","server": "https://pan.ecve.cn/"},
+    {"name": "小鸭","server": "https://pan.mediy.cn/"},
+    {"name": "秋雨","server": "https://share.qiuyu.org/"},
+    {"name": "小雅","server": "http://alist.xiaoya.pro/"},
+    {"name": "七米蓝","server": "https://al.chirmyram.com/"},
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "38667",
+      "server": "http://9527.coms.ee:38667/"
+    },
+    
+    {
+      "name": "空目录勿点",
+      "server": "http://baidu.com/"
+    }
+    
+  ]
+}

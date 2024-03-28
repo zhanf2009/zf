@@ -1,0 +1,30 @@
+[
+  {
+    "name": "推薦",
+    "list": [
+      {
+        "url": "",
+        "icon": ""
+      }
+    ]
+  },
+
+  
+  {
+    "name": "ZF软件",
+    "list": [
+      {
+        "name": "Z-电视家",
+        "url": "",
+        "icon": "",
+        "version": "v7a"
+      },
+      {
+        "name": "Z-海阔",
+        "url": "https://7.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      }
+    ]
+  }
+]
